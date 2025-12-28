@@ -1,0 +1,15 @@
+name: agent-forensics
+channels:
+  - conda-forge
+  - pytorch               
+dependencies:
+  - python=3.11
+  - pytorch=2.4           
+  - pip
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - pip:
+      - transformers>=4.38  
+      - safetensors>=0.4
+      - jsonlines
