@@ -1,0 +1,4 @@
+ts,state,count_folders,count_files
+2026-01-02 14:42:03,folder:create:/blog/,1,1
+2026-01-02 14:42:06,file:create:/blog/index.html,1,2
+2026-01-02 14:42:27,file:write:/blog/index.html,1,2

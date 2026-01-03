@@ -1,0 +1,2 @@
+ts,tool_name,command,parameters_json,description
+2026-01-02 14:51:53,terminal_command,git commit,"{""command"": ""git commit"", ""message"": ""Initial commit: Simple CLI blueberry game with README""}",Missing path or message for git commit

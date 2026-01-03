@@ -1,0 +1,2 @@
+ts,tool_name,command,parameters_json,description
+2026-01-02 14:42:56,folder_command,list,"{""command"": ""list"", ""path"": ""/chess""}",Directory not found: /chess/

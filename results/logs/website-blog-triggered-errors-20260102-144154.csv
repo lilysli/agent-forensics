@@ -1,0 +1,2 @@
+ts,tool_name,command,parameters_json,description
+2026-01-02 14:42:32,file_command,create,"{""command"": ""create"", ""path"": ""/sensitive.txt""}",File already exists: /sensitive.txt
